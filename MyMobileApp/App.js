@@ -15,7 +15,7 @@ export default function App() {
           Save time in Word with new buttons that show up where you need them. 
           Reading is easier, too, in the new Reading view.
         </Text>
-        
+        <StatusBar style="auto" />
       </View>
     </PaperProvider>
   );
