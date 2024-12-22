@@ -7,7 +7,7 @@ export default function App() {
     <PaperProvider>
       <View style={styles.container}>
         <Text variant="headlineLarge">Headline Large</Text>
-        
+        <Divider />
         <Text variant="bodyMedium" style={styles.body}>
           Video provides a powerful way to help you prove your point. 
           To make your document look professionally produced, 
